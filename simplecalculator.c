@@ -30,3 +30,7 @@ void main()
         printf("enter a valid operator\n");
     }
 }
+
+gffjk
+ftjk
+
